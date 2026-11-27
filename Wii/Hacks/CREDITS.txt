@@ -1,0 +1,2 @@
+awesome: Creator of the Epic Mickey 2 and Need for Speed: ProStreet hacks. Built off Vague Rant's controller documentation.
+Vague Rant: Original Classic Controller hack creator, which I used their code to make these. https://gbatemp.net/threads/new-classic-controller-hacks.659837/
